@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace legyenonismilliomos
 {
-    public class Kerdes
+    internal class Kerdes
 
     {
         private int nehezseg;
